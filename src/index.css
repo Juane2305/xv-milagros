@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+@theme{
+  --font-eleganteText: 'Great Vibes', 'serif';
+  --font-brushNames: "Marck Script", 'cursive';
+  --font-eleganteTitle: 'Tangerine', 'cursive';
+  --font-libre: 'Libre Baskerville', 'serif';
+}
